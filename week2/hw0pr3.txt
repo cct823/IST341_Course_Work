@@ -1,0 +1,24 @@
+0 XXXX -> W 0
+0 XXWS -> N 0
+0 NEXX -> W 0
+0 NXXX -> W 0
+0 XEXX -> W 0
+0 XXXS -> N 0
+0 XXWX -> X 1
+0 XEXS -> N 0
+0 NXWX -> S 1
+1 NXWX -> S 1
+1 XXWX -> S 1
+1 XXWS -> E 2
+
+2 XXXS -> E 2
+2 XEXS -> N 3
+
+3 XEXX -> W 3
+3 XXXX -> W 3
+3 XXWX -> N 4
+4 XXWX -> E 4
+4 XXXX -> E 4
+4 XEXX -> N 3
+4 NXWX -> E 4
+4 NXXX -> E 4

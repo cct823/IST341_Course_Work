@@ -1,0 +1,20 @@
+#Picobot #maze2
+# up
+0 *x** -> E 1
+0 xE** -> N 0
+0 NE** -> X 3
+
+# right
+1 ***x -> S 2
+1 *x*S -> E 1
+1 *E*S -> X 0
+
+# down
+2 **x* -> W 3
+2 **Wx -> S 2
+2 **WS -> X 1
+
+# left
+3 x*** -> N 0
+3 N*x* -> W 3
+3 N*W* -> X 2

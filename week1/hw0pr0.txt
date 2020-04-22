@@ -1,0 +1,12 @@
+Have there been moments in which you felt that your language or another language "got in the way" of something you wanted to accomplish? That is, have you "bumped into a language's boundaries," in the manner suggested by the article? Elaborate briefly. or
+
+
+There is an article I read earlier, but I couldn't remember where I saw it. It was talking about how man and woman understand the route and find the correct direction. When telling a man how to get to the direction, you can only ask him to make a turn on what road, and then walk straight and then make another left turn on what road. However, when you talk to a woman, they don't understand where they are. They don't even know how to find the name of the road. So, to get the woman to the correct direction, you have to tell her to make a right turn on Costco, and then you will see In-N-Out, follow that direction to In-N-Out, when you see Starbucks make a left turn. I think this is the time that I have the issue with telling people with the usual language. Some people just couldn't understand what are you talking about, and you have to translate your words into the words they know.
+
+
+
+
+To what extent do artificial languages (such as Python or Picobot) have the ability to shape human thought,
+if at all? Or are such languages fundamentally different from human ones, such as Guugu Yimithirr and English?
+
+Compare to C/C++/Java; I think Python language is really easy to understand, which means that it is close to human language. For example, if you want to print one line on the screen, in python you can just easily type print("content you want to show"). However, in C you have use printf(%s, and the context you want to show.) In this case, printf doesn't exist in the human language. If you tell people that you want to print something, their reaction might be "huh?  what are you talking about?" Nonetheless, it is not strange that you tell people you want to print something. I think python has the high ability to translate human language into machine language because it is straightforward and easy to understand. 

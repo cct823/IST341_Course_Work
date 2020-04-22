@@ -1,0 +1,321 @@
+{
+  "resultCount": 36,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-beatles/136975?uo=4",
+      "artistId": 136975,
+      "amgArtistId": 3644,
+      "primaryGenreName": "Rock",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Blues Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/blues-beatles/1177076976?uo=4",
+      "artistId": 1177076976,
+      "primaryGenreName": "Blues",
+      "primaryGenreId": 2
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Bornagen Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/bornagen-beatles/417746653?uo=4",
+      "artistId": 417746653,
+      "primaryGenreName": "Pop",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "3 Normal Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/3-normal-beatles/269076416?uo=4",
+      "artistId": 269076416,
+      "primaryGenreName": "Alternative",
+      "primaryGenreId": 20
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Beatles Acoustic Trio",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-beatles-acoustic-trio/976631872?uo=4",
+      "artistId": 976631872,
+      "primaryGenreName": "Pop",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Savage Young Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/savage-young-beatles/79623511?uo=4",
+      "artistId": 79623511,
+      "amgArtistId": 877930,
+      "primaryGenreName": "Dance",
+      "primaryGenreId": 17
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Beatles Revival Band",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/beatles-revival-band/215066533?uo=4",
+      "artistId": 215066533,
+      "primaryGenreName": "Pop",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Rolling Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-rolling-beatles/439964146?uo=4",
+      "artistId": 439964146,
+      "primaryGenreName": "Pop",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Beatles Connection",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-beatles-connection/911648932?uo=4",
+      "artistId": 911648932,
+      "primaryGenreName": "Britpop",
+      "primaryGenreId": 1132
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Beatles Revival Band & Orchestra",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-beatles-revival-band-orchestra/443425560?uo=4",
+      "artistId": 443425560,
+      "primaryGenreName": "Pop",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Savage Young Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-savage-young-beatles/304600324?uo=4",
+      "artistId": 304600324,
+      "amgArtistId": 877930,
+      "primaryGenreName": "Rock",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Philharmonic Beatles Experience",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-philharmonic-beatles-experience/410698395?uo=4",
+      "artistId": 410698395
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Black Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/black-beatles/659419180?uo=4",
+      "artistId": 659419180,
+      "primaryGenreName": "Hip-Hop/Rap",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Bootleg Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-bootleg-beatles/165911529?uo=4",
+      "artistId": 165911529
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Savage Young Beatles with Tony Sheridan",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-savage-young-beatles-with-tony-sheridan/984990630?uo=4",
+      "artistId": 984990630
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Bootleg Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/bootleg-beatles/370627110?uo=4",
+      "artistId": 370627110
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Savage Young Beatles featuring Tony Sheridan",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-savage-young-beatles-featuring-tony-sheridan/288180269?uo=4",
+      "artistId": 288180269,
+      "primaryGenreName": "Rock",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Japanese Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/japanese-beatles/453677615?uo=4",
+      "artistId": 453677615,
+      "primaryGenreName": "Alternative",
+      "primaryGenreId": 20
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Tape-Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-tape-beatles/1165121174?uo=4",
+      "artistId": 1165121174,
+      "primaryGenreName": "Electronic",
+      "primaryGenreId": 7
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Ukulele Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-ukulele-beatles/606182486?uo=4",
+      "artistId": 606182486,
+      "primaryGenreName": "Pop",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Better Than The Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/better-than-the-beatles/1405683555?uo=4",
+      "artistId": 1405683555,
+      "primaryGenreName": "Alternative",
+      "primaryGenreId": 20
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "#1 Beatles Fantasy Band",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/1-beatles-fantasy-band/370546167?uo=4",
+      "artistId": 370546167
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The New York Beatles Show",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-new-york-beatles-show/370546235?uo=4",
+      "artistId": 370546235,
+      "primaryGenreName": "Pop",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Tampere Beatles Happening",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/tampere-beatles-happening/1082950038?uo=4",
+      "artistId": 1082950038,
+      "primaryGenreName": "Pop",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Beatles Symphonic Orchestra",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-beatles-symphonic-orchestra/410698389?uo=4",
+      "artistId": 410698389
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "BPC - Beatles Para Crian\u00e7as",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/bpc-beatles-para-crian%C3%A7as/1134646093?uo=4",
+      "artistId": 1134646093,
+      "primaryGenreName": "Britpop",
+      "primaryGenreId": 1132
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Lopez Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/lopez-beatles/1343532162?uo=4",
+      "artistId": 1343532162,
+      "primaryGenreName": "Pop",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Beatles etcetera",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-beatles-etcetera/388195904?uo=4",
+      "artistId": 388195904,
+      "primaryGenreName": "Spoken Word",
+      "primaryGenreId": 50000061
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Beatle's Wart",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/beatles-wart/577701203?uo=4",
+      "artistId": 577701203,
+      "amgArtistId": 2992181,
+      "primaryGenreName": "Pop",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Norwegian Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-norwegian-beatles/1423672176?uo=4",
+      "artistId": 1423672176,
+      "primaryGenreName": "Rock",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Los Beatles De Cadiz",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/los-beatles-de-cadiz/255880236?uo=4",
+      "artistId": 255880236,
+      "primaryGenreName": "Pop",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Memphis Loves The Beatles Studio Band",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/memphis-loves-the-beatles-studio-band/673285434?uo=4",
+      "artistId": 673285434,
+      "primaryGenreName": "R&B/Soul",
+      "primaryGenreId": 15
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Clube Big Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/clube-big-beatles/935788775?uo=4",
+      "artistId": 935788775,
+      "primaryGenreName": "Pop",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Ungrateful Dead Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/the-ungrateful-dead-beatles/843553221?uo=4",
+      "artistId": 843553221,
+      "primaryGenreName": "Rock",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Sex Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/sex-beatles/1141953561?uo=4",
+      "artistId": 1141953561,
+      "primaryGenreName": "Indie Rock",
+      "primaryGenreId": 1004
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Vix Beatles",
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/vix-beatles/935788746?uo=4",
+      "artistId": 935788746,
+      "primaryGenreName": "Pop",
+      "primaryGenreId": 14
+    }
+  ]
+}

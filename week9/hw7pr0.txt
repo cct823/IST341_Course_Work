@@ -1,0 +1,5 @@
+I think even ML is limited, but it is still one of the most significant improvements in the 21 century.
+Take AlphaGO as an example, when I was a kid, and I was learning GO, I never thought that one-day human would be beaten by the
+machine. AlphaGO learns how to play go from people's experiences; data scientists build the model to make AlphGO learn.
+As a result, they succeeded because GO is one of the most complicated chess game in the world.  If they put the model for Go
+to another chess game, it may not work because AlphaGO never learns it before. This is a limitation, but I think it may be solved in the future because decades ago people couldn't imagine machine can be so smart. Hence, we won't know if the same thing will happen again in the future, which is the machine can learn from one object, then apply the model to different objects, whichsounds impossible right now.

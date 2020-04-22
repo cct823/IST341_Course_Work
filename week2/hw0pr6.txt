@@ -1,0 +1,129 @@
+#Picobot #maze4
+#nothing
+0 XEXX -> W 0
+0 NEXX -> W 0
+0 XXXX -> W 0
+1 XXXX -> E 1
+0 XEXS -> N 0
+
+#touch the north wall
+0 NXXX -> W 0
+
+
+#touch the east wall
+1 XEXX -> S 1
+
+#touch the west wall
+0 XXWX -> S 0
+
+#touch the south wall
+0 XXXS -> E 1
+1 XXXS -> W 1
+
+#touch the northeast corner
+
+#touch the northwest corner
+0 NXWX -> S 0
+
+#touch the southeast corner
+1 XEXS -> W 1
+#touch the southwest corner
+0 XXWS -> E 0
+
+
+1 XXWS -> E 2
+2 XXXS -> E 2
+2 XEXS -> N 3
+3 XEXX -> W 3
+3 XXXX -> W 3
+3 XXWX -> N 4
+4 XXWX -> E 4
+4 XXXX -> E 4
+4 XEXX -> N 3
+4 NXWX -> E 4
+4 NXXX -> E 4
+3 XXXS -> W 3
+3 XXWS -> N 4
+4 XXXS -> E 4
+3 NEXX -> W 3
+3 NXXX -> W 3
+4 NEXX -> X 5
+3 NXWX -> E 4
+5 NEXX -> W 5
+5 NXXX -> W 5
+5 NxWx -> X 6
+
+6 NXWX -> S 6
+6 XXWX -> S 6
+6 XXWS -> E 6
+6 XXXS -> E 6
+6 XXXX -> E 6
+6 XEXX -> N 7
+
+7 XXXX -> E 7
+7 XXXS -> E 8
+8 XXXX -> S 8
+8 XXWX -> E 9
+9 XXXX -> E 9
+9 XEXX -> W 10
+10 XXXX -> W 10
+10 XXWX -> S 8
+8 XXWS -> E 11
+11 XXXS -> E 11
+11 XXXX -> E 11
+11 XEXX -> S 8
+8 XEXX -> W 12
+12 XXXX -> W 12
+12 XXWX -> S 9
+10 NXXX -> W 10
+10 NXWX -> S 8
+
+11 XEXS -> N 13
+13 XEXX -> N 13
+13 NEXX -> W 13
+13 NXXX -> W 13
+13 XXXX -> N 14
+
+14 NEXX -> W 14
+14 XXXX -> W 14
+14 XXWX -> N 15
+
+15 XXWX -> E 15
+15 XXXX -> E 15
+15 XEXX -> N 16
+
+16 XEXX -> W 16
+16 XXXX -> W 16
+16 XXWX -> E 15
+15 XXXS -> E 15
+
+16 NXWX -> E 17
+17 XXXX -> N 17
+17 NXWX -> E 17
+17 NXXX -> E 17
+17 NEXX -> S 18
+
+18 XEXX -> S 18
+18 XEXS -> W 18
+18 XXXS -> N 18
+18 XXXX -> N 18
+18 NXXX -> W 19
+
+19 NXXX -> S 19
+19 XXXX -> S 19
+19 XXXS -> W 18
+19 XXWX -> S 20
+
+7 NEXX -> W 21
+21 NXXX -> W 21
+21 NXWX -> S 0
+2 XXXX -> N 2
+2 NXXX -> X 0
+
+20 XXWS -> N 20
+20 XXWX -> N 20
+20 XXXX -> W 20
+20 XXXS -> W 20
+20 NXWX -> S 22
+22 XXWX -> S 22
+22 XXXX -> X 0

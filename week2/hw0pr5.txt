@@ -1,0 +1,31 @@
+#Picobot #maze3
+
+0 XXXX -> W 0
+0 NEWX -> S 0
+0 XEWS -> X 7
+0 NEXX -> W 0
+0 XEXS -> W 0
+9 XXXX -> E 9
+0 NXWX -> S 9
+1 NXWX -> E 1
+1 XXXX -> E 1
+1 NEXX -> X 2
+2 NEXX -> S 0
+0 NXWS -> E 3
+3 XXXX -> E 3
+3 NEXS -> W 4
+4 XXXX -> S 5
+5 XEXS -> W 0
+0 XXWS -> E 6
+6 XXXX -> S 7
+7 XXWS -> E 9
+9 XEXS -> W 0
+7 XEWS -> N 8
+8 XXXX -> N 8
+8 NEWX -> S 10
+10 XXXX -> E 0
+9 NEXX -> X 0
+9 NEXS -> X 0
+9 XXWS -> E 9
+0 NEXS -> W 0
+9 NXWS -> E 9
